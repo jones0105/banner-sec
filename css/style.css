@@ -1,0 +1,41 @@
+
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;}
+ 
+
+ 			
+			
+.banner-col1{
+			width:40%;
+			height:100vh;}
+			
+#banner{ background:url(../images/banner-images.jpg);
+		background:linear-gradient( rgba(24, 85, 128, 0.5),rgba(27, 50, 66, 0.5) ),url(../images/banner-images.jpg);
+		}	
+h1{padding:30% 10% 10% 20%;
+	font-size:45px;
+	color:white;}		
+.para{border-left:2px solid rgb(90, 148, 242);
+		margin-left:20%;
+		color:white;
+		font-size:18px;
+		}
+		
+.para p{width:75%;
+		padding-left:10px;}
+		
+.banner-col1 button{background-color:rgb(90, 148, 242);
+				padding:15px 35px 15px 35px;
+				margin:5% 10% 10% 20%;
+				border:1px solid rgb(90, 148, 242);
+				border-radius:30px;
+				text-align:center;
+				color:white;
+				font-size:16px;
+				}
+.icon1 span{color:white;
+			font-size:20px;
+			padding-left:10px;}
+}		
+button:hover{cursor:pointer;}
